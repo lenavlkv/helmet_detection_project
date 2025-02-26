@@ -1,0 +1,8 @@
+train: C:/Users/Admin/PycharmProjects/helmet_detection_project/combined_dataset/images/train
+val: C:/Users/Admin/PycharmProjects/helmet_detection_project/combined_dataset/images/val
+
+# Количество классов
+nc: 2
+
+# Названия классов
+names: ['no-helmet', 'helmet']
